@@ -13,3 +13,4 @@
 12. man - Displays the manual for a command.
 13. chmod - Changes file permissions.
 14. grep - Searches for patterns in files.
+15. find - Searches for files and directories.
