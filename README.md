@@ -6,3 +6,4 @@
 5. rmdir - Removes an empty directory.
 6. rm - Removes files.
 7. touch - Creates a new empty file.
+8. cat - Displays the contents of a file.
