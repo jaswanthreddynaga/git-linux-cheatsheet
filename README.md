@@ -12,3 +12,4 @@
 11. echo - Prints text or writes text into a file.
 12. man - Displays the manual for a command.
 13. chmod - Changes file permissions.
+14. grep - Searches for patterns in files.
