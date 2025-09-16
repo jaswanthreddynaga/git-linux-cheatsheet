@@ -3,3 +3,4 @@
 2. ls - Lists files and directories in the current directory. Use ls -l for detailed info, and ls -a to show hidden files.
 3. cd - Changes the current directory. 
 4. mkdir - Creates a new directory. Example: mkdir new_folder.
+5. rmdir - Removes an empty directory.
