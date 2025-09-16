@@ -5,3 +5,4 @@
 4. mkdir - Creates a new directory. Example: mkdir new_folder.
 5. rmdir - Removes an empty directory.
 6. rm - Removes files.
+7. touch - Creates a new empty file.
