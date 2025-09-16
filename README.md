@@ -10,3 +10,4 @@
 9. cp - Copies files or directories.
 10. mv - Moves or renames files.
 11. echo - Prints text or writes text into a file.
+12. man - Displays the manual for a command.
