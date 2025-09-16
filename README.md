@@ -9,3 +9,4 @@
 8. cat - Displays the contents of a file.
 9. cp - Copies files or directories.
 10. mv - Moves or renames files.
+11. echo - Prints text or writes text into a file.
